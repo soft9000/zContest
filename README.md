@@ -15,6 +15,6 @@ Here is where we will share the official set of entries for any zContest Event.
 
 ***ENTRY SUBMISSIONS:*** Final entries must be (8) emailed to r.a.nagy -at- gmail.com before contest deadlines. In order to insure impartiality, (9) personal information must be removed from the source code of all final entries. Only (10) one entry per email address, per contest, is permitted: In the event multiple entries are recieved, the most recent entry will be deemed to be the official contest entry.
 
-***EMAIL POLICY:*** Contestants will (11) be notified of any winnings via the email address provided. (12) No other use of student-provided electronic mail addresses (advertising, newsletters, etc.) shall be permitted. 
+***EMAIL POLICY:*** Contestants will (11) be notified of submision acceptance, status, as well as any winnings via the email address provided. (12) No other use of electronic mail addresses (advertising, newsletters, etc.) shall be permitted. 
 
 ***JUDGES:*** Official winners are selected by our panel of indepentant judges. If you would like to help select zContest winners, feel free to join us at https://www.facebook.com/groups/212904099373674/
