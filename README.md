@@ -3,7 +3,9 @@ As you may know, we have been busy training the next generation of software deve
 
 Once trained however, students need to find ways to practice what they have learned, as well as to build project experience. 
 
-zContest has been designed to encourage both. Like any competitive, event, our hope is that contest winners will also earn some serious resume-braging rights! 
+zContest has been designed to encourage both. 
+
+Like any competitive event, our hope is that contest winners will also earn some serious resume-braging rights! 
 
 Here is where we will share the official set of entries for any zContest Event.
 
