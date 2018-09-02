@@ -3,9 +3,9 @@
 Our first contest was designed to be a freestyle activity. 
 
 Given 30 days to compete, the mission was to author a program
-designed to create, read, and update (C.R.U.D) a stand-alone
-software offering. Students were free to choose any content
-theme.
+designed to create, read, update, and delete (C.R.U.D) a 
+stand-alone software offering. Students were free to choose any 
+collection theme.
 
 Entitled "The C.R.U.D Contest," the prize winnings were valued
 at $600.oo. The winnings consisted of a complete set of videos 
