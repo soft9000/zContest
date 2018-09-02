@@ -17,8 +17,8 @@ publicly available on Udemy the same day that the winnings
 were awarded: September 1st, 2018.
 
 ## zContestants
-Contestants were Python 3 students from our Pasco County 
-and Tampa Florida Students.
+Contestants were Python 3 Students from our Pasco County 
+and Tampa Florida software communities.
 
 ## Meetup:
 
