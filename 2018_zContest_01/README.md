@@ -23,11 +23,14 @@ and Tampa Florida Students.
 ## Meetup:
 
 https://www.meetup.com/Tampa-Python-Meetup/events/253126738/
+
 https://www.meetup.com/New-Port-Richey-Python-Meetup/events/253126749/
 
 ## Prizes:
 
 https://www.udemy.com/introduction-to-turtle-graphics/
+
 https://www.udemy.com/more-turtle-graphics/
+
 https://www.udemy.com/turtle-graphics-modeling-simulation/
 
