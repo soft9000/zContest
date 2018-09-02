@@ -1,0 +1,4 @@
+milk, 1 gallon
+yogurt, 6
+broccoli, 2
+peaches, 6
