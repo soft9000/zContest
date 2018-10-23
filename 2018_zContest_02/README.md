@@ -21,5 +21,10 @@ No purchase or attendance is required to be elegible for this contest.
 For a complete list of terms and conditions, please refer to:
 https://github.com/soft9000/zContest
 
+## zVideo?
+Overview, as well as a little help getting started:
+
+https://www.youtube.com/watch?v=vVAV64iyyd4
+
 
 
