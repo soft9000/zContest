@@ -22,16 +22,16 @@ encouraged.
 
 ## zPrizes
 The winner of "The Keeper Contest," challenger will be able to 
-select THEIR CHOICE of of our training. The first place prize winner 
+select THEIR CHOICE from of our training. The first place prize winner 
 may select ANY three (3) educational offerings, the second place prize 
 winner may choose any two (2), and the 3rd place winner may choose
-one (1) educational offering. Educational offering to be selected 
+one (1) on-line offering. Educational offering to be selected 
 from https://www.udemy.com/user/randallnagy2/
 
 ## zContestants
 No purchase or attendance is required to be eligible for this contest.
 
-For a complete list of terms and conditions, please refer to:
+For a complete list of zContest submission terms and conditions, please refer to:
 https://github.com/soft9000/zContest
 
 ## zVideo?
