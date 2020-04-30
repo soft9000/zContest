@@ -25,7 +25,7 @@ https://www.facebook.com/groups/zcontest
 No expereince is necessary - you simply need to know what you like?
 
 ## Contestants:
-If you would like to ne notified when the next contest is avaialble, feel free to join us @ https://www.facebook.com/groups/zContestants
+If you would like to be notified when the next contest is under way, feel free to join us @ https://www.facebook.com/groups/zContestants
 
 ## p.s:
 
