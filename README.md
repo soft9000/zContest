@@ -16,3 +16,17 @@ Here is where we will share the official set of entries for any zContest Event.
 ***ENTRY SUBMISSIONS:*** Final entries must be (8) emailed to r.a.nagy -at- gmail.com before contest deadlines. In order to insure impartiality, (9) personal information must be removed from the source code of all final entries. Only (10) one entry per email address, per contest, is permitted: In the event multiple entries are recieved, the most recent entry will be deemed to be the official contest entry.
 
 ***EMAIL POLICY:*** Contestants will (11) be notified of submission acceptance, status, as well as any winnings via the email address provided. (12) No other use of electronic mail addresses (advertising, newsletters, etc.) shall be permitted.
+
+## Judges:
+We are always looking for a few good geeks. If you would like to help us pick the official winners, feel free to join us at: 
+
+https://www.facebook.com/groups/zcontest
+
+No expereince is necessary - you simply need to know what you like?
+
+## Contestants:
+If you would like to ne notified when the next contest is avaialble, feel free to join us @ https://www.facebook.com/groups/zContestants
+
+## p.s:
+
+Students looking to learn more about Python3 educational opportunties can join us at https://www.facebook.com/groups/Python3Training - As of 2020/04/14, we're over 10,000 'Pythoneers strong!
