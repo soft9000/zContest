@@ -42,5 +42,7 @@ https://github.com/soft9000/zContest
 
 ## zVideo?
 The requirement overview, as well as a little help getting students started,
-is once again available on YouTube.
+is once again available on YouTube: 
+
+https://www.youtube.com/watch?v=zWzJqwxqCuM
 
